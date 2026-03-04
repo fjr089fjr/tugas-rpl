@@ -1,0 +1,99 @@
+.dua {
+    background-image: url("https://www.astronauts.id/blog/wp-content/uploads/2022/08/Makanan-Khas-Daerah-tiap-Provinsi-di-Indonesia-Serta-Daerah-Asalnya-1024x683.jpg");
+    background-size: cover;
+}
+
+h3 {
+    color: white;
+}
+/* HERO SECTION */
+.dua {
+    background-image: url("https://www.astronauts.id/blog/wp-content/uploads/2022/08/Makanan-Khas-Daerah-tiap-Provinsi-di-Indonesia-Serta-Daerah-Asalnya-1024x683.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* NAVBAR */
+.satu {
+    background-color: rgb(8, 8, 8);
+    height: 0px;
+}
+
+h3 {
+    color: white;
+}
+
+bot
+/* BUTTON HOVER */
+button:hover {
+    background-color: rgb(243, 239, 243);
+    color: rgb(167, 4, 4);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+
+/* ================= SERVICE SECTION ================= */
+
+/* Background ungu */
+.main-color {
+    background-color: purple;
+}
+
+
+/* Icon bulat */
+.icon-service {
+    width: 90px;
+    height: 90px;
+
+    border: 2px solid rgb(7, 7, 7);
+    border-radius: 50%;
+
+    color: rgb(241, 19, 19);
+}
+
+
+/* Hover card */
+.hovered-card {
+    padding: 20px;
+    border-radius: 10px;
+
+    transition: all 0.9s ease;
+}
+
+
+/* Efek hover */
+.hovered-card:hover {
+    background-color: rgba(8, 8, 8, 0.374);
+    transform: translateX(20px) translateY(-20px);
+}
+
+
+/* Text service */
+.hovered-card h5 {
+    margin-bottom: 10px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.hovered-card p {
+    font-size: 14px;
+}
+.text{
+    color: rgb(245, 234, 234);
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer {
+    background-color: rgba(0, 0, 0, 0.973);
+}
+.footer .social-icons{
+    color: rgb(241, 19, 19);
+    font-size: 1.6rem;
+    transition: .3s;
+}
+.footer .social-icons:hover {
+    color: rgb(248, 237, 17)
+}
